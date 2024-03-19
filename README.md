@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rk-marseni
 - 👀 I’m interested in emotional communication
-- 🌱 I’m currently learning pattern recognition and pattern genration
+- 🌱 I’m currently learning pattern recognition and pattern generation
 - 💞️ I’m looking to collaborate on CNN and GAN based projects
 <!-- - 📫 How to reach me: <a href="https://discord.com/channels/"> Sound Sage </a> -->
 
